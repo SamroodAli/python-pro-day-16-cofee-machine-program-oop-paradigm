@@ -29,3 +29,5 @@ while is_on:
                     COFFEE_MAKER.make_coffee(drink)
             except ValueError:
                 print("sorry, error in inserting coins. Money refunded")
+    else:
+        print("invalid input")
