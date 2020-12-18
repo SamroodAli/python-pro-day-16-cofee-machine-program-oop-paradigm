@@ -1,6 +1,6 @@
-from MENU import Menu, MenuItem
-from COFFEE_MAKER import CoffeeMaker
-from MONEY_MACHINE import MoneyMachine
+from menu import Menu, MenuItem
+from coffee_maker import CoffeeMaker
+from money_machine import MoneyMachine
 from logo import LOGO
 
 # variables
